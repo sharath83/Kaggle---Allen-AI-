@@ -1,5 +1,6 @@
 # Kaggle---Allen-AI-
 The Allen AI Science Challenge - Kaggle
+Predicting choices for multiple choice questions from 8th Standard syllabus
 
 Please check out the below link for problem description and data
 https://www.kaggle.com/c/the-allen-ai-science-challenge
